@@ -1,3 +1,5 @@
 packages:
   - "packages/**"
-  - "apps/**"
+  #  - "sites/**"
+  # 不包括在 tests 文件夹下的 package
+  - "!**/tests/**"

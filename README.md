@@ -8,7 +8,11 @@
 
 - [nextjs-series](packages/)
 
-## Refeference
+## References
 
 - [ts-tutorials](https://github.com/total-typescript/beginners-typescript-tutorial.git)
 - [type-challenges](https://github.com/type-challenges/type-challenges.git)
+
+## References: UI
+
+- [horizon-ui](https://github.com/horizon-ui/chatgpt-ai-template.git)

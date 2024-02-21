@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { one } from "../src";
+import { one } from "../../src/demo";
 
 describe("should test", () => {
   it("exported", () => {

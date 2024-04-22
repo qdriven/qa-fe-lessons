@@ -45,3 +45,13 @@ export default function Page(){
 }
 ```
 
+## Dashboard Layout
+
+![img](https://nextjs.org/_next/image?url=%2Flearn%2Flight%2Fshared-layout-page.png&w=1920&q=75)
+
+- Logo
+- SideBar
+- Page
+![img](https://nextjs.org/_next/image?url=%2Flearn%2Flight%2Fpartial-rendering-dashboard.png&w=3840&q=75)
+
+

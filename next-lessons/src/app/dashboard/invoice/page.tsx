@@ -1,6 +1,10 @@
 import {Metadata} from "next";
 import {inter} from "@/app/ui/fonts";
-import {Suspense} from "react";
+import React, {Suspense} from "react";
+import Search from "@/app/ui/components/invoice/Search";
+import {CreateInvoice} from "@/app/ui/components/invoice/Buttons";
+import {InvoicesTableSkeleton} from "@/app/ui/components/skeletons";
+import InvoicesTable from "@/app/ui/components/invoice/Table";
 
 
 export const metadata: Metadata = {
@@ -26,12 +30,12 @@ export default async function Page({
                 <h1 className={`${inter.className} text-2xl`}>Invoices</h1>
             </div>
             <div className="mt-4 flex items-center justify-between gap-2 md:mt-8">
-                {/*<Search placeholder="Search invoices..." />*/}
-                {/*<CreateInvoice />*/}
+                <Search placeholder="Search invoices..." />
+                <CreateInvoice />
             </div>
-            {/*<Suspense key={query + currentPage} fallback={<InvoicesTableSkeleton />}>*/}
-            {/*    <Table query={query} currentPage={currentPage} />*/}
-            {/*</Suspense>*/}
+            <Suspense key={query + currentPage} fallback={<InvoicesTableSkeleton />}>
+                <InvoicesTable  />
+            </Suspense>
             {/*<div className="mt-5 flex w-full justify-center">*/}
             {/*    <Pagination totalPages={totalPages} />*/}
             {/*</div>*/}

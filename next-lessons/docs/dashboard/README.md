@@ -55,3 +55,7 @@ export default function Page(){
 ![img](https://nextjs.org/_next/image?url=%2Flearn%2Flight%2Fpartial-rendering-dashboard.png&w=3840&q=75)
 
 
+## Dashboard Application
+- shared layout: shared layout in layout.tsx of folder root
+- Router Group: () folder as shared page and layout
+

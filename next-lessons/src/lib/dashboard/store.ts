@@ -44,7 +44,7 @@ export async function fetchInvoiceById(id:string){
     return invoices[0]
 }
 
-export async function fetchCustomers(id:string){
+export async function fetchCustomers(){
     return customers
 }
 

@@ -80,7 +80,7 @@ export const invoices:InvoicesTable[] = [
         amount: 15795,
         status: 'pending',
         date: '2022-12-06',
-        id: "",
+        id: "16",
         name: "",
         email: "",
         image_url: ""
@@ -90,7 +90,7 @@ export const invoices:InvoicesTable[] = [
         amount: 20348,
         status: 'pending',
         date: '2022-11-14',
-        id: "",
+        id: "15",
         name: "",
         email: "",
         image_url: ""
@@ -100,7 +100,7 @@ export const invoices:InvoicesTable[] = [
         amount: 3040,
         status: 'paid',
         date: '2022-10-29',
-        id: "",
+        id: "14",
         name: "",
         email: "",
         image_url: ""
@@ -110,7 +110,7 @@ export const invoices:InvoicesTable[] = [
         amount: 44800,
         status: 'paid',
         date: '2023-09-10',
-        id: "",
+        id: "13",
         name: "",
         email: "",
         image_url: ""
@@ -120,7 +120,7 @@ export const invoices:InvoicesTable[] = [
         amount: 34577,
         status: 'pending',
         date: '2023-08-05',
-        id: "",
+        id: "12",
         name: "",
         email: "",
         image_url: ""
@@ -130,7 +130,7 @@ export const invoices:InvoicesTable[] = [
         amount: 54246,
         status: 'pending',
         date: '2023-07-16',
-        id: "",
+        id: "11",
         name: "",
         email: "",
         image_url: ""
@@ -140,7 +140,7 @@ export const invoices:InvoicesTable[] = [
         amount: 666,
         status: 'pending',
         date: '2023-06-27',
-        id: "",
+        id: "10",
         name: "",
         email: "",
         image_url: ""
@@ -150,7 +150,7 @@ export const invoices:InvoicesTable[] = [
         amount: 32545,
         status: 'paid',
         date: '2023-06-09',
-        id: "",
+        id: "9",
         name: "",
         email: "",
         image_url: ""
@@ -160,7 +160,7 @@ export const invoices:InvoicesTable[] = [
         amount: 1250,
         status: 'paid',
         date: '2023-06-17',
-        id: "",
+        id: "8",
         name: "",
         email: "",
         image_url: ""
@@ -170,7 +170,7 @@ export const invoices:InvoicesTable[] = [
         amount: 8546,
         status: 'paid',
         date: '2023-06-07',
-        id: "",
+        id: "7",
         name: "",
         email: "",
         image_url: ""
@@ -180,7 +180,7 @@ export const invoices:InvoicesTable[] = [
         amount: 500,
         status: 'paid',
         date: '2023-08-19',
-        id: "",
+        id: "6",
         name: "",
         email: "",
         image_url: ""
@@ -190,7 +190,7 @@ export const invoices:InvoicesTable[] = [
         amount: 8945,
         status: 'paid',
         date: '2023-06-03',
-        id: "",
+        id: "1",
         name: "",
         email: "",
         image_url: ""
@@ -200,7 +200,7 @@ export const invoices:InvoicesTable[] = [
         amount: 8945,
         status: 'paid',
         date: '2023-06-18',
-        id: "",
+        id: "2",
         name: "",
         email: "",
         image_url: ""
@@ -210,7 +210,7 @@ export const invoices:InvoicesTable[] = [
         amount: 8945,
         status: 'paid',
         date: '2023-10-04',
-        id: "",
+        id: "3",
         name: "",
         email: "",
         image_url: ""
@@ -220,7 +220,7 @@ export const invoices:InvoicesTable[] = [
         amount: 1000,
         status: 'paid',
         date: '2022-06-05',
-        id: "",
+        id: "4",
         name: "",
         email: "",
         image_url: ""

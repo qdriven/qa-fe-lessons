@@ -6,13 +6,14 @@
 
 ## Lesson 2: NextJS Lessons
 
-- [nextjs-series](packages/)
+- [nextjs-lessosn](nextjs-lessons/)
 
 ## References
 
+- [horizon-ui](https://github.com/horizon-ui/chatgpt-ai-template.git)
 - [ts-tutorials](https://github.com/total-typescript/beginners-typescript-tutorial.git)
 - [type-challenges](https://github.com/type-challenges/type-challenges.git)
 
-## References: UI
+## Tutorials
 
-- [horizon-ui](https://github.com/horizon-ui/chatgpt-ai-template.git)
+- [UI](https://github.com/atherosai/ui.git)

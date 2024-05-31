@@ -1,3 +1,4 @@
+*.cast
 .vscode/
 .DS_Store
 node_modules/
@@ -33,3 +34,4 @@ demos/
 apps/
 coverage/
 .idea/
+apps/
